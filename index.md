@@ -10,9 +10,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project 1: Gray Level Transformed Directional Normalized Standard Deviations (NSTD) for Edge Detection
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Scope of Program Field: Gravity, Magnetic & Remote Sensing Dataset**
+
+_**Platform: MATLAB**_
+
+_**Program File name : start_LineamentGreyLevelsNSTD.m**_
+
+The program calculates the Gray Level Transformed Directional Normalized Standard Deviations (NSTD) for Edge Detection.
+
+It takes the 2D gridded points input (Irap Classic Points format) such as Input File Format (X(Integer) Y(Integer) Z(Float)) - XY in ascending order top to bottom direction of Input data: 1. West to East: Left to Right, 2. South to North: Top to Bottom
+
+**Sample output image (zoomed)**
+
+![](./assets/img/Image_GravLineament.jpg)
+
+Open source Free Air Gravity data downloaded from the following site: https://topex.ucsd.edu/cgi-bin/get_data.cgi
+
+------------------------------------------------------------------------------------------
 
 ## Header 2
 
