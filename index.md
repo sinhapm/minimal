@@ -6,7 +6,7 @@
 
 ### Project 1: Gray Level Transformed Directional Normalized Standard Deviations (NSTD) for Edge Detection
 
-> Link: https://github.com/sinhapm/GravMagGreyTransDirectionEdge.git
+> https://github.com/sinhapm/GravMagGreyTransDirectionEdge.git
 
 **Scope of Program Field: Gravity, Magnetic & Remote Sensing Dataset**
 
@@ -24,7 +24,7 @@ Open source Free Air Gravity data downloaded from the following site: https://to
 
 ### Project 2: Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method
 
-> Link: https://github.com/sinhapm/Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method.git
+> https://github.com/sinhapm/Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method.git
 
 **Scope of Program Field: Attribute Analysis - 3D Seismic Phase Decomposition**
 
@@ -41,7 +41,7 @@ The program performs 3D seismic data Phase Decomposition based on Odd-Even funct
 ### Project 3: On-Off-Amplitude-Analysis [Stacked Mean]
 **The Program performs the on-off structural amplitude profiling based on common interval stacking.**
 
-> Link: https://github.com/sinhapm/On-Off-Amplitude-Analysis---Stacked-Mean.git
+> https://github.com/sinhapm/On-Off-Amplitude-Analysis---Stacked-Mean.git
 
 **Scope of Program Field: Attribute Analysis based on point data set of 3D seismic data structural interpretation - Interval Based Stacked Mean Amplitude Profiling**
 
