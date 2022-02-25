@@ -34,10 +34,6 @@ Open source Free Air Gravity data downloaded from the following site: https://to
 
 _**Platform: MATLAB(R2020), Opendtect 6.4**_
 
-**Program file**: "**Test_run_codes_pdoed3D_sample_3Dseismic_matfile.m**" provided script reads the sample seismic input data ("**sample_3Dseismic.mat**") and calls the phase decomposition function scripts except two files (**od_doprocess.m** & **od_getparameters.m**) and display a Inline results. User can change the input parameters values and display the result.
-
-For Opendtect Volume Builder: Except "Test_run_codes_pdoed3D_sample_3Dseismic_matfile.m" files, all other MATLAB ".m" required to be complied via MATLAB C Compiler to generate the c shared dll file.
-
 Sample data ("**sample_3Dseismic.mat**") outputs test: script: "Test_run_codes_pdoed3D_sample_3Dseismic_matfile.m"
 
 ![](./assets/img//image_phasedecomposition.jpg)
