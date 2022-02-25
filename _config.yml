@@ -1,6 +1,14 @@
-title: Prashant Mohan Sinha
+title: <p align="center"> Prashant M. Sinha </p>
 logo: /assets/img/Me_SeismicAcquisition.jpg
 description: Sr. Geophysicist
+
+description:
+  <p align="center">
+  <a href="pdf/Resume.pdf">Resume</a> |
+  <a href="linkedin.com/in/prashant-sinha-06a297b/">LinkedIn</a> |
+  <a href="https://github.com/sinhapm">GitHub</a>
+  </p>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
