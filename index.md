@@ -1,6 +1,4 @@
-### Brief Intro:
-
-**I am an exploration Geophysicist with 16 years of experience. I have developed practical skill and knowledge in integrated geoscience exploration activities, which primarily include seismic (2D and 3D) & non-seismic data acquisition, processing QC, structural & quantitative Interpretation and risk evaluation.**
+## Portfolio
 
 **My journey to the world of Machine Learning & AI has already begun. Below is the list of some of the project programs developed previously.**
 
