@@ -34,8 +34,11 @@ Open source Free Air Gravity data downloaded from the following site: https://to
 
 ------------------------------------------------------------------------------------------
 
-## Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method
+## Project 2: Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method
 **Matlab Program to perform the 3D seismic data Phase Decomposition based on Odd-Even function. It computes only the odd components (-90 degree, 90 degree) and the even components (+/-180 degree, 0 degree) from the 3D seismic data**.
+
+
+**Link: https://github.com/sinhapm/Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method.git**
 
 **Scope of Program Field: Attribute Analysis - 3D Seismic Phase Decomposition**
 
@@ -51,22 +54,24 @@ Sample data ("**sample_3Dseismic.mat**") outputs test: script: "Test_run_codes_p
 
 ------------------------------------------------------------------------------------------
 
-### Header 3
+## Project 3: On-Off-Amplitude-Analysis [Stacked Mean]
+**The Program performs the on-off structural amplitude profiling based on common interval stacking.**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Link: https://github.com/sinhapm/Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method.git**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Scope of Program Field: Attribute Analysis based on point data set of 3D seismic data structural interpretation - Interval Based Stacked Mean Amplitude Profiling**
+
+_** Development Platform (Windows): Visual Basic**_
+
+_** Utility Program : Stacked_Mean (Application file) / Setup file only**_
+
+The program carries out the mean amplitude profiling of the 3D seismic point data set based on set interval. A ratio curve can be estimated by assigning the background level and same can be analysed with the know reference curve/s (maximum of 5 reference curves can be added). Reference curve/s can be shifted, stretched, squeezed along the x -axis.
+
+**Sample image**:
+
+![](./assets/img/Image_StackedMean.jpg )
+
+------------------------------------------------------------------------------------------
 
 #### Header 4
 
