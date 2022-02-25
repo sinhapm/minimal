@@ -47,7 +47,7 @@ For Opendtect Volume Builder: Except "Test_run_codes_pdoed3D_sample_3Dseismic_ma
 
 Sample data ("**sample_3Dseismic.mat**") outputs test: script: "Test_run_codes_pdoed3D_sample_3Dseismic_matfile.m"
 
-![](/reference/images/Sample3Dseismic/image_phasedecomposition.jpg)
+![](./assets/img//image_phasedecomposition.jpg)
 
 ------------------------------------------------------------------------------------------
 
