@@ -10,7 +10,7 @@
 
 **Scope of Program Field: Gravity, Magnetic & Remote Sensing Dataset**
 
-_**Platform: MATLAB**_
+_Platform: MATLAB_
 
 The program calculates the Gray Level Transformed Directional Normalized Standard Deviations (NSTD) for Edge Detection.
 
@@ -33,7 +33,7 @@ Further details of program is provided on the below link:
 
 **Scope of Program Field: Attribute Analysis - 3D Seismic Phase Decomposition**
 
-_**Platform: MATLAB(R2020), Opendtect 6.4**_
+_Platform: MATLAB(R2020), Opendtect 6.4_
 
 Sample data ("**sample_3Dseismic.mat**") outputs test: script: "Test_run_codes_pdoed3D_sample_3Dseismic_matfile.m"
 
@@ -48,9 +48,9 @@ Sample data ("**sample_3Dseismic.mat**") outputs test: script: "Test_run_codes_p
 
 **Scope of Program Field: Attribute Analysis based on point data set of 3D seismic data structural interpretation - Interval Based Stacked Mean Amplitude Profiling**
 
-_** Development Platform (Windows): Visual Basic**_
+_Development Platform (Windows): Visual Basic_
 
-_** Utility Program : Stacked_Mean (Application file) / Setup file only**_
+_Utility Program : Stacked_Mean (Application file) / Setup file only_
 
 The program carries out the mean amplitude profiling of the 3D seismic point data set based on set interval. A ratio curve can be estimated by assigning the background level and same can be analysed with the know reference curve/s (maximum of 5 reference curves can be added). Reference curve/s can be shifted, stretched, squeezed along the x -axis.
 
