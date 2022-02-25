@@ -25,7 +25,7 @@ Open source Free Air Gravity data downloaded from the following site: https://to
 ------------------------------------------------------------------------------------------
 
 ### Project 2: Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method
-**Matlab Program to perform the 3D seismic data Phase Decomposition based on Odd-Even function. It computes only the odd components (-90 degree, 90 degree) and the even components (+/-180 degree, 0 degree) from the 3D seismic data**.
+**3D seismic data Phase Decomposition based on Odd-Even function. It computes only the odd components (-90 degree, 90 degree) and the even components (+/-180 degree, 0 degree) from the 3D seismic data**.
 
 
 **Link: https://github.com/sinhapm/Phase-Decomposition-3D-Seismic-Data-Odd-Even-Function-Method.git**
