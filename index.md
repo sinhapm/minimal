@@ -14,7 +14,7 @@ _Platform: MATLAB_
 
 The program calculates the Gray Level Transformed Directional Normalized Standard Deviations (NSTD) for Edge Detection.
 
-**Sample output image**
+**Sample output image:**
 
 ![](./assets/img/Image_GravLineament.jpg)
 
@@ -32,7 +32,7 @@ _Platform: MATLAB(R2020), Opendtect 6.4_
 
 The program performs 3D seismic data Phase Decomposition based on Odd-Even function. It computes only the odd components (-90 degree, 90 degree) and the even components (+/-180 degree, 0 degree) from the 3D seismic data.
 
-**Sample output image**
+**Sample output image:**
 
 ![](./assets/img//image_phasedecomposition.jpg)
 
@@ -51,7 +51,7 @@ _Utility Program : Stacked_Mean (Application file) / Setup file only_
 
 The program carries out the mean amplitude profiling of the 3D seismic point data set based on set interval. A ratio curve can be estimated by assigning the background level and same can be analysed with the know reference curve/s (maximum of 5 reference curves can be added). Reference curve/s can be shifted, stretched, squeezed along the x -axis.
 
-**Sample image**:
+**Sample image:**:
 
 ![](./assets/img/Image_StackedMean.jpg )
 
